@@ -19,7 +19,7 @@ Clicking on a nuclide reveals it's full decay chain in the table and shows more 
 
 
 ## Help
-If you spot an error anywhere, please open up an (`Issue`)[https://github.com/KaenguruuDev/ElementOfTables/issues] so that it can be resolved quickly. The (`Discussions`)[https://github.com/KaenguruuDev/ElementOfTables/discussions] are also open for everyone to debate over anything where there might be conflicting data.
+If you spot an error anywhere, please open up an [`Issue`](https://github.com/KaenguruuDev/ElementOfTables/issues) so that it can be resolved quickly. The [`Discussions`](https://github.com/KaenguruuDev/ElementOfTables/discussions) are also open for everyone to debate over anything where there might be conflicting data.
 Similarly, if you have ideas for new features / improvements, both an issue or a discussion if you're unsure are a great way to help improve the program.
 
 Any help is greatly appreciated.
