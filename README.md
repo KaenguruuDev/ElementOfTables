@@ -2,7 +2,8 @@
 ---
 
 Element of tables is a small program that provides interactive views of the periodic table as well as the nuclide table.
-![splashscreen](https://github.com/user-attachments/assets/29d7f111-f91d-40e0-817f-6b3aa87633f6)
+![splashscreen_small](https://github.com/user-attachments/assets/c2137188-e1df-469c-9693-755d8f78f985)
+
 
 ---
 
