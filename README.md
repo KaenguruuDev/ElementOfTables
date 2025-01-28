@@ -32,4 +32,4 @@ I am maintaining this in my free time and may loose interest / not have enough t
 ---
 
 **KaenguruuDev, 2025**
-![logo_white](https://github.com/user-attachments/assets/9db88c63-2476-48e0-a2d8-b9e34909a643)
+![logo_white_medium](https://github.com/user-attachments/assets/56ef1f5c-cab8-4cba-9c64-d932ac685854)
