@@ -29,6 +29,14 @@ Any help is greatly appreciated.
 The datasets I currently use may contain outdated or incorrect information. Don't use this as a source for your work.
 I am maintaining this in my free time and may loose interest / not have enough time to continue to develop it.
 
+## Original Sources
+The datasets were originally sourced from the following:
+
+Elements: [GoodmanSciences](https://gist.github.com/GoodmanSciences/c2dd862cd38f21b0ad36b8f96b4bf1ee)
+
+Nuclides: [GustavLindberg99](https://github.com/GustavLindberg99/NuclideChart/blob/main/data.csv)
+
+
 ---
 
 **KaenguruuDev, 2025**
